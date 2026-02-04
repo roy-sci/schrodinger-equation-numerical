@@ -1,1 +1,4 @@
-# schrodinger-equation-numerical
+# Schrödinger-Equation-Numerical
+The Schrödinger equation is central to quantum mechanics, governing the behaviour of particles at microscopic scales. For most physically relevant systems, exact analytical solutions are limited to a few idealised cases, making numerical methods an essential tool in quantum physics. This project focuses on solving the one-dimensional time-independent Schrödinger equation using a numerical finite-difference approach to study simple quantum systems.
+
+By discretising space and converting the Schrödinger equation into a matrix eigenvalue problem, the energy eigenvalues and corresponding wavefunctions are computed for standard model potentials such as the particle in a box and the harmonic oscillator. The results reproduce the expected quantised energy levels and characteristic shapes of the wavefunctions. Through this approach, the project demonstrates how numerical techniques provide physical insight into quantum systems and highlights the role of computation in modern theoretical and computational physics.
